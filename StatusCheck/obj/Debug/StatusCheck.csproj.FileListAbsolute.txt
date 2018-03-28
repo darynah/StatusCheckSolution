@@ -1,0 +1,11 @@
+C:\Users\Darin\Desktop\SportsBook-master-bbf2e0e64bd3884d863c1a8ef4c990c48766838f\SportsBook-master-bbf2e0e64bd3884d863c1a8ef4c990c48766838f\StatusCheck\bin\Debug\StatusCheck.dll
+C:\Users\Darin\Desktop\SportsBook-master-bbf2e0e64bd3884d863c1a8ef4c990c48766838f\SportsBook-master-bbf2e0e64bd3884d863c1a8ef4c990c48766838f\StatusCheck\bin\Debug\StatusCheck.pdb
+C:\Users\Darin\Desktop\SportsBook-master-bbf2e0e64bd3884d863c1a8ef4c990c48766838f\SportsBook-master-bbf2e0e64bd3884d863c1a8ef4c990c48766838f\StatusCheck\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Darin\Desktop\SportsBook-master-bbf2e0e64bd3884d863c1a8ef4c990c48766838f\SportsBook-master-bbf2e0e64bd3884d863c1a8ef4c990c48766838f\StatusCheck\bin\Debug\nunit.framework.dll
+C:\Users\Darin\Desktop\SportsBook-master-bbf2e0e64bd3884d863c1a8ef4c990c48766838f\SportsBook-master-bbf2e0e64bd3884d863c1a8ef4c990c48766838f\StatusCheck\bin\Debug\RestSharp.dll
+C:\Users\Darin\Desktop\SportsBook-master-bbf2e0e64bd3884d863c1a8ef4c990c48766838f\SportsBook-master-bbf2e0e64bd3884d863c1a8ef4c990c48766838f\StatusCheck\bin\Debug\nunit.framework.xml
+C:\Users\Darin\Desktop\SportsBook-master-bbf2e0e64bd3884d863c1a8ef4c990c48766838f\SportsBook-master-bbf2e0e64bd3884d863c1a8ef4c990c48766838f\StatusCheck\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Darin\Desktop\SportsBook-master-bbf2e0e64bd3884d863c1a8ef4c990c48766838f\SportsBook-master-bbf2e0e64bd3884d863c1a8ef4c990c48766838f\StatusCheck\obj\Debug\StatusCheck.csproj.CoreCompileInputs.cache
+C:\Users\Darin\Desktop\SportsBook-master-bbf2e0e64bd3884d863c1a8ef4c990c48766838f\SportsBook-master-bbf2e0e64bd3884d863c1a8ef4c990c48766838f\StatusCheck\obj\Debug\StatusCheck.csproj.CopyComplete
+C:\Users\Darin\Desktop\SportsBook-master-bbf2e0e64bd3884d863c1a8ef4c990c48766838f\SportsBook-master-bbf2e0e64bd3884d863c1a8ef4c990c48766838f\StatusCheck\obj\Debug\StatusCheck.dll
+C:\Users\Darin\Desktop\SportsBook-master-bbf2e0e64bd3884d863c1a8ef4c990c48766838f\SportsBook-master-bbf2e0e64bd3884d863c1a8ef4c990c48766838f\StatusCheck\obj\Debug\StatusCheck.pdb

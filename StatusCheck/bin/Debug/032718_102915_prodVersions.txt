@@ -1,0 +1,478 @@
+Response Uri: https://sport.betlab.com/translation/status
+Name: translation
+Port: 20450
+Id: 21c09f84-f5b2-4b3e-229b-7eb5596a50d0
+Environment: PROD
+Version": "1.0.11
+SemanticVersion": "1.0.11-build-00747
+Branch": "master
+RevisionHash": "3f26abace41c
+RevisionDate": "2017-11-14 11:50:15 +0200
+BuildNumber": "00747
+
+Response Uri: https://sport.betlab.com/air-perimeter/status
+
+Response Uri: https://sport.betlab.com/bet-gate/status
+Name: bet-gate
+Port: 8080
+Id: bet-gate.1
+Environment: PROD
+Version": "1.4.6
+SemanticVersion": "1.4.6-build-00887
+Branch": "release/1.4.6
+RevisionHash": "7f25d04bd624
+RevisionDate": "2017-08-01 12:36:44 +0300
+BuildNumber": "00887
+
+Response Uri: https://sport.betlab.com/bet-gate-api/status
+Name: bet-gate-api
+Port: 20893
+Id: db26b2a3-5d08-b4e9-23a8-d19c48f4e59d
+Environment: PROD
+Version": "1.4.10
+SemanticVersion": "1.4.10-build-00991
+Branch": "release/1.4.10
+RevisionHash": "493d10fa96b2
+RevisionDate": "2017-09-11 21:05:31 +0300
+BuildNumber": "00991
+
+Response Uri: https://sport.betlab.com/bet-handler/status
+Name: bet-handler
+Port: 20291
+Id: 3f0f4d32-b2db-4127-a01d-ba1c44327748
+Environment: PROD
+Version": "1.4.10
+SemanticVersion": "1.4.10-build-00991
+Branch": "release/1.4.10
+RevisionHash": "493d10fa96b2
+RevisionDate": "2017-09-11 21:05:31 +0300
+BuildNumber": "00991
+
+Response Uri: https://sport.betlab.com/bet-store/status
+Name: bet-store
+Port: 20002
+Id: 14f80bf1-8cf1-06db-a5f6-b7775cc925c3
+Environment: PROD
+Version": "5.4.0
+SemanticVersion": "5.4.0-build-01526
+Branch": "master
+RevisionHash": "daa2fa27e284
+RevisionDate": "2017-12-06 17:17:07 +0200
+BuildNumber": "01526
+
+Response Uri: https://sport.betlab.com/bet-store-host/status
+Name: bet-store-host
+Port: 20863
+Id: af7b76f1-78e5-f177-de42-112c077e5c69
+Environment: PROD
+Version": "5.3.0
+SemanticVersion": "5.3.0-build-01461
+Branch": "release/5.3.0
+RevisionHash": "4b2bf338c37b
+RevisionDate": "2017-09-04 16:10:31 +0300
+BuildNumber": "01461
+
+Response Uri: https://sport.betlab.com/bet-view/status
+Name: bet-view
+Port: 20002
+Id: 8bfb0543-5d8f-a4fc-85a5-40b340369dc0
+Environment: PROD
+Version": "1.3.6
+SemanticVersion": "1.3.6-build-00436
+Branch": "master
+RevisionHash": "0483c9d354d9
+RevisionDate": "2017-12-06 17:17:22 +0200
+BuildNumber": "00436
+
+Response Uri: https://sport.betlab.com/bethistory-localization/status
+Name: bethistory-localization
+Port: 20432
+Id: def10f8c-d484-fcc6-1e69-876096678006
+Environment: PROD
+Version": "1.0.2
+SemanticVersion": "1.0.2-build-00215
+Branch": "master
+RevisionHash": "deb94e596a0e
+RevisionDate": "2018-02-14 12:36:34 +0200
+BuildNumber": "00215
+
+Response Uri: https://sport.betlab.com/betradar-statistics/status
+
+Response Uri: https://sport.betlab.com/betstatisticsapi/status
+Name: betstatisticsapi
+Port: 20006
+Id: ce9a1d50-ef73-7846-8b4b-98cee201a992
+Environment: PROD
+Version": "1.7.1
+SemanticVersion": "1.7.1-build-01582
+Branch": "master
+RevisionHash": "e60312e7c3b6
+RevisionDate": "2017-12-20 13:23:01 +0200
+BuildNumber": "01582
+
+Response Uri: https://sport.betlab.com/chinch/status
+Name: chinch
+Port: 20426
+Id: f3026b25-0e99-28e6-8305-2283612e11a8
+Environment: PROD
+Version": "1.1.1
+SemanticVersion": "1.1.1-build-00320
+Branch": "master
+RevisionHash": "7303574a39d0
+RevisionDate": "2018-01-12 14:36:21 +0200
+BuildNumber": "00320
+
+Response Uri: https://sport.betlab.com/esport-backoffice-api/status
+Name: esport-backoffice-api
+Id: esport-backoffice-api.63816a11-da65-80f6-e2db-9a2c35048412
+Environment: PROD
+Version": "2.2.0
+SemanticVersion": "2.2.0-build-00224
+Branch": "release/2.2.0
+RevisionHash": "1ea5c9f94a36
+RevisionDate": "2017-09-01 17:46:48 +0300
+BuildNumber": "00224
+
+Response Uri: https://sport.betlab.com/esport-bet-gate/status
+Name: esport-bet-gate
+Port: 20141
+Id: 828ee765-7603-37ac-1502-ad6e509510df
+Environment: PROD
+Version": "1.4.10
+SemanticVersion": "1.4.10-build-01000
+Branch": "master
+RevisionHash": "069213ca512e
+RevisionDate": "2017-09-21 11:06:35 +0300
+BuildNumber": "01000
+
+Response Uri: https://sport.betlab.com/esport-bet-processor/status
+Name: esport-bet-processor
+Port: 20126
+Id: c3617375-7043-0b1e-79e7-98a38749dfb8
+Environment: PROD
+Version": "1.4.3
+SemanticVersion": "1.4.3-build-00587
+Branch": "hotfix/esbet-wallet-only
+RevisionHash": "e1ffbfc68e42
+RevisionDate": "2018-01-26 09:27:07 +0200
+BuildNumber": "00587
+
+Response Uri: https://sport.betlab.com/esport-bet-settlement/status
+Name: esport-bet-settlement
+Port: 20167
+Id: 324a3b29-5d55-486e-1270-99b25b77b082
+Environment: PROD
+Version": "1.2.0
+SemanticVersion": "1.2.0-build-00422
+Branch": "release/1.3.0
+RevisionHash": "e1de94a5aac0
+RevisionDate": "2018-02-08 11:30:18 +0200
+BuildNumber": "00422
+
+Response Uri: https://sport.betlab.com/esport-bet-settlement-api/status
+Name: esport-bet-settlement-api
+Port: 20619
+Id: 2b726926-fd42-c75f-d418-0e8f4a7660bf
+Environment: PROD
+Version": "1.2.0
+SemanticVersion": "1.2.0-build-00422
+Branch": "release/1.3.0
+RevisionHash": "e1de94a5aac0
+RevisionDate": "2018-02-08 11:30:18 +0200
+BuildNumber": "00422
+
+Response Uri: https://sport.betlab.com/esport-bet-store/status
+Name: esport-bet-store
+Port: 20105
+Id: ad955897-805c-0c16-debf-08bac449e85b
+Environment: PROD
+Version": "5.4.0
+SemanticVersion": "5.4.0-build-01535
+Branch": "hotfix/rollback-settelment
+RevisionHash": "b2c831514be1
+RevisionDate": "2018-02-13 10:05:37 +0200
+BuildNumber": "01535
+
+Response Uri: https://sport.betlab.com/esport-bet-store-host/status
+Name: esport-bet-store-host
+Port: 20994
+Id: 352307c6-7263-6f83-face-e3b6b4c92b11
+Environment: PROD
+Version": "5.4.0
+SemanticVersion": "5.4.0-build-01535
+Branch": "hotfix/rollback-settelment
+RevisionHash": "b2c831514be1
+RevisionDate": "2018-02-13 10:05:37 +0200
+BuildNumber": "01535
+
+Response Uri: https://sport.betlab.com/esport-bet-view/status
+Name: esport-bet-view
+Port: 20094
+Id: c877c60a-9b29-583c-e7e7-63c99a32b1de
+Environment: PROD
+Version": "1.3.4
+SemanticVersion": "1.3.4-build-00403
+Branch": "release/1.3.4
+RevisionHash": "9044ec9b5e22
+RevisionDate": "2017-09-01 17:28:35 +0300
+BuildNumber": "00403
+
+Response Uri: https://sport.betlab.com/esport-event-state/status
+Name: esport-event-state
+Port: 20546
+Id: ad016bbb-bc4b-7287-292b-39ce8c769310
+Environment: PROD
+Version": "1.0.2
+SemanticVersion": "1.0.2-build-00245
+Branch": "master
+RevisionHash": "06071d3e8877
+RevisionDate": "2017-12-12 13:54:54 +0200
+BuildNumber": "00245
+
+Response Uri: https://sport.betlab.com/esport-player-history-api/status
+Name: esport-player-history-api
+Port: 20100
+Id: 7f456b64-78a2-30b6-2fe0-a24438d13cc0
+Environment: PROD
+Version": "1.3.2
+SemanticVersion": "1.3.2-build-00211
+Branch": "hotfix/ressetle-tickets
+RevisionHash": "4c9c105b1e67
+RevisionDate": "2018-02-07 10:32:41 +0200
+BuildNumber": "00211
+
+Response Uri: https://sport.betlab.com/esport-selection-results/status
+Name: esport-selection-results
+Port: 9001
+Id: esport-selection-results.1
+Environment: PROD
+Version": "1.0.0
+SemanticVersion": "1.0.0
+Branch": null
+RevisionHash": null
+RevisionDate": null
+BuildNumber": "0
+
+Response Uri: https://sport.betlab.com/esport-supervisor-monitor-api/status
+Name: esport-supervisor-monitor-api
+Port: 20314
+Id: b5a6e587-e738-e9eb-ddcf-f569d6933e92
+Environment: PROD
+Version": "2.0.0
+SemanticVersion": "2.0.0-build-00362
+Branch": "master
+RevisionHash": "43e30949d8f1
+RevisionDate": "2017-11-23 14:48:52 +0200
+BuildNumber": "00362
+
+Response Uri: https://sport.betlab.com/feed-producer/status
+Name: feed-producer
+Port: 9000
+Id: feed-producer.1
+Environment: PROD
+Version": "1.0.1
+SemanticVersion": "1.0.1-build-00151
+Branch": "hotfix/libs-update
+RevisionHash": "8f90a777c83a
+RevisionDate": "2018-02-09 20:04:40 +0200
+BuildNumber": "00151
+
+Response Uri: https://sport.betlab.com/fh-live/status
+Name: fh-live
+Port: 9000
+Id: fh-live.1
+Version": "1.8.1
+SemanticVersion": "1.8.1-build-00043
+Branch": null
+RevisionHash": null
+RevisionDate": null
+BuildNumber": "00043
+
+Response Uri: https://sport.betlab.com/fh-live-esport/status
+Name: fh-live-esport
+Port: 9001
+Id: fh-live-esport.1
+Version": "1.6.6
+SemanticVersion": "1.6.6-build-01961
+Branch": null
+RevisionHash": null
+RevisionDate": null
+BuildNumber": "01961
+
+Response Uri: https://sport.betlab.com/fh-live-old/status
+Name: fh-live-old
+Port: 9000
+Id: fh-live-old.1
+Version": "1.8.1
+SemanticVersion": "1.8.1-build-00043
+Branch": null
+RevisionHash": null
+RevisionDate": null
+BuildNumber": "00043
+
+Response Uri: https://sport.betlab.com/fh-prematch/status
+Name: fh-prematch
+Port: 9001
+Id: fh-prematch.1
+Version": "1.8.1
+SemanticVersion": "1.8.1-build-00031
+Branch": null
+RevisionHash": null
+RevisionDate": null
+BuildNumber": "00031
+
+Response Uri: https://sport.betlab.com/fh-prematch-esport/status
+Name: fh-prematch-esport
+Port: 9000
+Id: fh-prematch-esport.1
+Version": "1.6.7
+SemanticVersion": "1.6.7-build-01969
+Branch": null
+RevisionHash": null
+RevisionDate": null
+BuildNumber": "01969
+
+Response Uri: https://sport.betlab.com/fh-prematch-old/status
+Name: fh-prematch-old
+Port: 9000
+Id: fh-prematch-old.1
+Version": "1.8.1
+SemanticVersion": "1.8.1-build-00031
+Branch": null
+RevisionHash": null
+RevisionDate": null
+BuildNumber": "00031
+
+Response Uri: https://sport.betlab.com/fh-virtualsports/status
+Name: fh-virtualsports
+Port: 9000
+Id: fh-virtualsports.1
+Version": "1.7.1
+SemanticVersion": "1.7.1-build-02277
+Branch": null
+RevisionHash": null
+RevisionDate": null
+BuildNumber": "02277
+
+Response Uri: https://sport.betlab.com/gryllotran/status
+Name: gryllotran
+Port: 20175
+Id: 81ae9dcc-8df5-0e69-9a0f-050a11ca2be7
+Environment: PROD
+Version": "1.0.9
+SemanticVersion": "1.0.9-build-00952
+Branch": "master
+RevisionHash": "065dda60b129
+RevisionDate": "2017-12-27 19:22:57 +0200
+BuildNumber": "00952
+
+Response Uri: https://sport.betlab.com/inner-feed-wrapper-live/status
+
+Response Uri: https://sport.betlab.com/inner-feed-wrapper-live-airpm/status
+
+Response Uri: https://sport.betlab.com/line-handler/status
+Name: line-handler
+Port: 20843
+Id: 7f5209d3-2faf-f27f-08fd-f42f8905e379
+Environment: PROD
+Version": "1.0.1
+SemanticVersion": "1.0.1
+Branch": null
+RevisionHash": null
+RevisionDate": null
+BuildNumber": "0
+
+Response Uri: https://sport.betlab.com/lineclient/status
+Name: lineclient
+Port: 8896
+Id: lineclient.1
+Environment: PROD
+Version": "2.0.1
+SemanticVersion": "2.0.1-build-00152
+Branch": "master
+RevisionHash": "c239b3df8a47
+RevisionDate": "2017-03-01 11:09:31 +0200
+BuildNumber": "00152
+
+Response Uri: https://sport.betlab.com/snaillayout/status
+Name: snaillayout
+Port: 9000
+Id: snaillayout.1
+Environment: PROD
+Version": "1.0.1
+SemanticVersion": "1.0.1-build-00196
+Branch": "master
+RevisionHash": "911d1f79eccb
+RevisionDate": "2017-05-15 10:51:44 +0300
+BuildNumber": "00196
+
+Response Uri: https://sport.betlab.com/sport-backoffice-api/status
+Name: sport-backoffice-api
+Id: sport-backoffice-api.1f435823-e8bc-62ba-572c-78f4858ce489
+Environment: PROD
+Version": "2.2.0
+SemanticVersion": "2.2.0-build-00224
+Branch": "release/2.2.0
+RevisionHash": "1ea5c9f94a36
+RevisionDate": "2017-09-01 17:46:48 +0300
+BuildNumber": "00224
+
+Response Uri: https://sport.betlab.com/sport-schema/status
+Name: sport-schema
+Port: 9021
+Id: sport-schema.1
+Version": "4.1.0
+SemanticVersion": "4.1.0-build-00686
+Branch": null
+RevisionHash": null
+RevisionDate": null
+BuildNumber": "00686
+
+Response Uri: https://sport.betlab.com/spout/status
+Name: spout
+Port: 9002
+Id: spout.1
+Environment: PROD
+Version": "1.0.8
+SemanticVersion": "1.0.8-build-00552
+Branch": "master
+RevisionHash": "6eb9147331f2
+RevisionDate": "2017-11-07 15:49:14 +0200
+BuildNumber": "00552
+
+Response Uri: https://sport.betlab.com/spout-prematch/status
+Name: spout-prematch
+Port: 9100
+Id: spout-prematch.1
+Environment: PROD
+Version": "1.0.9
+SemanticVersion": "1.0.9-build-00563
+Branch": "master
+RevisionHash": "9748aba970a4
+RevisionDate": "2017-11-27 16:55:56 +0200
+BuildNumber": "00563
+
+Response Uri: https://sport.betlab.com/taxonomy/status
+Name: taxonomy
+Port: 20576
+Id: 8000e4bf-015d-be0e-3236-b7bc32fb7fd2
+Environment: PROD
+Version": "1.3.2
+SemanticVersion": "1.3.2-build-00955
+Branch": "master
+RevisionHash": "1f63b674fc0e
+RevisionDate": "2017-11-29 16:04:00 +0200
+BuildNumber": "00955
+
+Response Uri: https://sport.betlab.com/taxonomy-spout/status
+Name: taxonomy-spout
+Port: 9000
+Id: taxonomy-spout.1
+Environment: PROD
+Version": "1.2.1
+SemanticVersion": "1.2.1-build-00667
+Branch": "feature/taxonomy-feed
+RevisionHash": "3e29c97d4b6b
+RevisionDate": "2017-03-06 12:02:20 +0200
+BuildNumber": "00667
+
